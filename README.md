@@ -1,0 +1,1 @@
+# Determining stock market sentiment from Twitter posts
